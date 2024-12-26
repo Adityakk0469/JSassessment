@@ -46,3 +46,4 @@ mintNFT("Aditya","black","hoddie","Gold chain")
 mintNFT("Jack","blue","hoddie","Gold chain")
 listNFTs();
 getTotalSupply();
+getTotalSupply();
